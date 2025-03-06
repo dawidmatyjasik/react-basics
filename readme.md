@@ -5,6 +5,7 @@ Technologie must have:
 - React
 
 Projekt:
+https://www.youtube.com/watch?v=amFYvQK4huo&ab_channel=GreatStack
 
 <!-- TODO: -->
 
